@@ -11,7 +11,7 @@ Structure of this table:
 
 ![image](https://user-images.githubusercontent.com/106281054/170527361-04eac230-4eea-4212-abbd-10e49cea0e32.png)
 
-How ut calculates
+How it calculates:
 
 ![image](https://user-images.githubusercontent.com/106281054/170532670-3521cfa2-d4dd-40b1-a4bd-a637545fd230.png)
 
