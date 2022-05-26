@@ -11,12 +11,8 @@ Structure of this table:
 
 ![image](https://user-images.githubusercontent.com/106281054/170527361-04eac230-4eea-4212-abbd-10e49cea0e32.png)
 
-First row contains the remainder of dividing our two numbers.
+How ut calculates
 
-For example 27(mod5)=2, 5(mod2)=1, 2(mod1).
+![image](https://user-images.githubusercontent.com/106281054/170532670-3521cfa2-d4dd-40b1-a4bd-a637545fd230.png)
 
-The penultimate value of this line is our greatest common divisor (1).
 
-Еhe second row contains integer parts of the divisors of the previous row.
-
-For example 27/5=5, 5/2=2 and so on.
