@@ -3,7 +3,7 @@ This console application generate table for extended Euclidean algorithm.
 
 Also this algoritm can calculate the greatest common divisor.
 
-In arithmetic and computer programming, the extended Euclidean algorithm is an extension to the Euclidean algorithm, and computes, in addition to the greatest common divisor (gcd) of integers a and b, also the coefficients of Bézout's identity, which are integers x and y such that.
+In arithmetic and computer programming, the extended Euclidean algorithm is an extension to the Euclidean algorithm, and computes, in addition to the greatest common divisor (gcd) of integers a and b, also the coefficients of Bézout's identity, which are integers u and v such that.
 
 ![image](https://user-images.githubusercontent.com/106281054/170533482-82270ebb-bebc-490f-8e4d-835faee28227.png)
 
