@@ -21,4 +21,4 @@ How this table calculates:
 
 ![image](https://user-images.githubusercontent.com/106281054/170532670-3521cfa2-d4dd-40b1-a4bd-a637545fd230.png)
 
-In this table first row is the remainder of the division of numbers, the second row is the integer parts of the divisors.
+In this table, the first row is the remainder of the division of numbers, the second row is the integer parts of the divisors.
